@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap');
+
+.summary-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #6A93A7;
+}
+
+.product-summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.seprator {
+  flex-grow: 1;
+  height: 2px;
+  border-bottom: 3px dotted #ccc;
+  margin: 0 5px;
+}
+
+.total-price {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: 'Lato', sans-serif;
+}

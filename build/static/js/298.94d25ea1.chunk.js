@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdropdown=self.webpackChunkdropdown||[]).push([[298],{298:function(e,s,c){e.exports=c.p+"static/media/melon.05358f4307c8c124d950.svg"}}]);

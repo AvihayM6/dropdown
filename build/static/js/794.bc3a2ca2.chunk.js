@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdropdown=self.webpackChunkdropdown||[]).push([[794],{794:function(s,d,a){s.exports=a.p+"static/media/salad.a193d653f8c57407dbb8.svg"}}]);

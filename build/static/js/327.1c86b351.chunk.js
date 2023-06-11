@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdropdown=self.webpackChunkdropdown||[]).push([[327],{327:function(e,p,s){e.exports=s.p+"static/media/pear.763909724556dc985641.svg"}}]);

@@ -1,0 +1,22 @@
+.cards-container {
+  display: grid;
+  grid: auto / auto auto;
+  width: 100%;
+  gap: 40px;
+  margin-top: 30px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-top: 20px;
+}
+
+.app-seprator {
+  flex-grow: 1;
+  height: 2px;
+  border-bottom: 1px solid #6D96A9;
+  margin: 40px 0;
+  width: 100%;
+}

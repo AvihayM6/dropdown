@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdropdown=self.webpackChunkdropdown||[]).push([[780],{780:function(e,c,s){e.exports=s.p+"static/media/orange.2c75ec281becce13b68a.svg"}}]);

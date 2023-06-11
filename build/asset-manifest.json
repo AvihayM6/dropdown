@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d25043c6.css",
+    "main.js": "/static/js/main.63d2dad0.js",
+    "static/js/232.833a59e5.chunk.js": "/static/js/232.833a59e5.chunk.js",
+    "static/js/726.682ac77e.chunk.js": "/static/js/726.682ac77e.chunk.js",
+    "static/js/798.6a218921.chunk.js": "/static/js/798.6a218921.chunk.js",
+    "static/js/298.94d25ea1.chunk.js": "/static/js/298.94d25ea1.chunk.js",
+    "static/js/780.872836ad.chunk.js": "/static/js/780.872836ad.chunk.js",
+    "static/js/327.1c86b351.chunk.js": "/static/js/327.1c86b351.chunk.js",
+    "static/js/794.bc3a2ca2.chunk.js": "/static/js/794.bc3a2ca2.chunk.js",
+    "static/media/salad.svg": "/static/media/salad.a193d653f8c57407dbb8.svg",
+    "static/media/orange.svg": "/static/media/orange.2c75ec281becce13b68a.svg",
+    "static/media/carrot.svg": "/static/media/carrot.11463b437744174e53d5.svg",
+    "static/media/apple.svg": "/static/media/apple.53c6753f026963be651a.svg",
+    "static/media/melon.svg": "/static/media/melon.05358f4307c8c124d950.svg",
+    "static/media/pear.svg": "/static/media/pear.763909724556dc985641.svg",
+    "static/media/lemon.svg": "/static/media/lemon.5e0106086546159fc095.svg",
+    "index.html": "/index.html",
+    "main.d25043c6.css.map": "/static/css/main.d25043c6.css.map",
+    "main.63d2dad0.js.map": "/static/js/main.63d2dad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25043c6.css",
+    "static/js/main.63d2dad0.js"
+  ]
+}

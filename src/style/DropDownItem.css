@@ -1,0 +1,43 @@
+.item-conteiner {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 10px 10px;
+  background-color: #eff3f5;
+
+  &:active {
+    background-color: #427991;
+  }
+  &:hover {
+    background-color: #89aab9;
+  }
+}
+
+.item-option {
+  display: flex; 
+  justify-content: space-between;
+  align-items: center;
+}
+
+.seprator {
+  flex-grow: 1;
+  height: 2px;
+  border-bottom: 3px dotted #ccc;
+  margin: 0 5px;
+}
+
+.submit-button {
+  background-color: #49859F;
+  width: 20%;
+  height: 45px;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 30px;
+  cursor: pointer;
+  color: white;
+  font-weight: 900;
+  border-radius: 5px;
+  font-size: 20px;
+}
